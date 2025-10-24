@@ -1,2 +1,0 @@
-# DERIP
-##### Derived Immunogenicity Predictor
