@@ -14,7 +14,7 @@ The main model is stored as a .xgb file which is the standard file format for XG
 
 As of now the model needs explicitly all the features in the format used in training(ESM-2) however it can be quite easily programmed to compute all features from the fundamental features, which are the Peptide and the MHC-I molecule.
 
-
+Nov 2, 2025: The model now only requires input of peptide + allele instead of entire array
 
 ## Issues and Limitation
 
